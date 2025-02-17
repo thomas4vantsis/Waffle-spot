@@ -490,7 +490,6 @@
     padding: 0.4rem 0.7rem;
     text-transform: capitalize;
     border-radius: var(--radius);
-    /* font-weight: 300; */
     margin-top: 1.25rem;
   }
   .service-info p {
