@@ -304,7 +304,6 @@
     
     animation: show 5s ease-out 1;
   }
-  
   .content-divider {
     height: 0.5rem;
     background: linear-gradient(
@@ -342,7 +341,6 @@
     box-shadow: 0 2px var(--clr-primary);
   }
   .skill:hover .skill-icon {
-    /* transform: scale(1.2); */
     transform: translateY(-5px);
     color: var(--clr-secondary);
   }
